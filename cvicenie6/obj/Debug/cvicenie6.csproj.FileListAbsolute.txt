@@ -1,0 +1,7 @@
+C:\Users\jacku\Documents\SharpDevelop Projects\cvicenie6\cvicenie6\obj\Debug\cvicenie6.csprojResolveAssemblyReference.cache
+C:\Users\jacku\Documents\SharpDevelop Projects\cvicenie6\cvicenie6\obj\Debug\cvicenie6.MainForm.resources
+C:\Users\jacku\Documents\SharpDevelop Projects\cvicenie6\cvicenie6\obj\Debug\cvicenie6.csproj.GenerateResource.Cache
+C:\Users\jacku\Documents\SharpDevelop Projects\cvicenie6\cvicenie6\bin\Debug\cvicenie6.exe
+C:\Users\jacku\Documents\SharpDevelop Projects\cvicenie6\cvicenie6\bin\Debug\cvicenie6.pdb
+C:\Users\jacku\Documents\SharpDevelop Projects\cvicenie6\cvicenie6\obj\Debug\cvicenie6.exe
+C:\Users\jacku\Documents\SharpDevelop Projects\cvicenie6\cvicenie6\obj\Debug\cvicenie6.pdb
